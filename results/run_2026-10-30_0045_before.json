@@ -1,0 +1,1823 @@
+[
+  {
+    "name": "human writing",
+    "criterion": 1,
+    "trials": [
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "3fe36627-45ba-49ce-969b-d2387fd627be",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "044240ca-9794-4b3e-bff2-83aa64d2be65",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "c4d4cec2-3865-4668-911b-5c42c6a244d0",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "29afb758-60e6-4e03-8d8a-b2272f1a470c",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "40c04dc6-6562-4501-af46-c93e0f5867a1",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d55b1260-4c10-4c94-8367-c092985a21ad",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "492ee70d-f7f9-48c4-95cf-b99c54dba047",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "15c88063-bb6c-453e-89ca-8a1e6a88fad7",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "bb19d04c-3a60-41c5-b188-929d9abca2eb",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "adf09b9a-a124-4ac4-9c19-ff5b8a8999e3",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "989800e3-d498-40f0-b846-2569a1d2cd7f",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "ad9b3590-677a-4fb6-90e9-abeebb42d76d",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "4d00f776-191a-4e5d-8a45-489a03eace24",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "781fb0f8-0031-49d7-a3b7-2439c7bf38b0",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "b0d470d4-e66f-40f4-b308-c5111ded2f32",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "eac67677-9205-40b4-b124-202aec8a3ac4",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7df570d2-3ca8-4c70-9ee2-2320fd5333fc",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7c9b9857-51c1-4ee0-b414-c5ddee11d2bb",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "efaf4949-b62f-43c7-8227-748d185d85f5",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "94a09e1b-cd68-4741-b7ae-60795f24620e",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "65c94af7-7755-48bd-93ca-6d5e547bbd73",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "41bc7e39-994b-4b35-8edf-f4e56ea1a800",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "6f92d3cc-2272-4443-b8de-a165a2ed6212",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "3cc3728d-a270-47c0-bb64-b502d5b84188",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f8658ffe-ea0e-48d7-9fbc-6e50618a3e20",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d576e78b-6128-4bc8-87a1-ae2fee544129",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7ea3e613-113d-4914-86f3-1de797098f24",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "657b0204-1dff-4d07-86fa-7bcc87d00744",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d20dd8b7-d0ac-4e7a-82f5-fbfb59ca7f55",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "0508e25e-f3bc-45cc-a67e-d4883ca402ad",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "clearly AI",
+    "criterion": 2,
+    "trials": [
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "bb6107a9-e5f7-4a28-9011-0dbfebf34baf",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "ad26acd9-47e8-4e85-bb60-79e3aaf6b507",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f9074b1a-25b4-4a0c-aa44-656411e6b3ef",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "93602602-e323-4468-8e35-ae10e5f1106f",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f268d661-a4ad-4321-bcf9-6c128f325a7a",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "c53b6c86-ef80-4ae3-a3e2-c87e807ee91b",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "b99fd412-48a4-42cb-bd94-f0e58ea509dc",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "885b3941-bdcc-4f87-8075-e2e952d14d3f",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "68d33f16-9698-459e-9712-b73e21373f94",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "e73e7db4-b580-4547-a6d7-2eeca575db04",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "8fc5aca4-54cd-462c-a4c0-e8935bc8b8ba",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d1288dd1-27a6-436b-ba74-d60bc3037c6c",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d754a7e6-cc88-45d7-8068-1fb5a3559ba3",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "5fa64a3f-9927-428f-85a7-0b4ae1aefd56",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "e7c80819-5d18-4152-a40b-360524dc280a",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "clearly human",
+    "criterion": 2,
+    "trials": [
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "083b74d0-5e6c-4a35-9ef6-d19b9e54e072",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7fa43e87-a4c1-446a-9406-5caa5dbdb3db",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2f61890a-fe78-4bed-a915-b48ed568e1a1",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d14d1cbc-7185-4b69-9dd6-117725210714",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "12b75921-8dc9-4897-8ab7-dd6a2ad348ac",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "13cdec38-facf-49e8-9bfc-24a574025631",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2d01f98a-3ba3-47c1-b17b-78fac3b58aa8",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "6d66117d-4aa4-4787-ae98-6a924ae93d4d",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "62e7d233-283d-46a8-a7ab-16de3e14e853",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "8f05c18c-d326-4b46-9372-b2d9cbb78de1",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "737e72b8-8859-48b5-b3dc-bfcf5e3368ff",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2a0769a4-19d0-4724-a898-828d93bce8bd",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "706f0622-7d39-44e7-9504-eff8e5f392a3",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "b08f2d48-b5e0-4e03-a3aa-6d7e44deb570",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "0807e4b2-36cb-44ec-88a0-c762481a47bb",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "all labels",
+    "criterion": 3,
+    "trials": [
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "9c62cfd0-9084-47f9-9832-126988f1c8a1",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "8ff23fee-d41a-4df1-b641-a2806815874b",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "dd32d2e5-e3aa-45ba-9cda-ee1ac14a396c",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d24c3cde-163b-4dde-bca1-b21ab60d3f9c",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "a1c15f99-f8c4-417f-a3c3-32c334308b12",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "96f81541-ed6c-4da9-9d0a-1e07c329077a",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "79b98bfd-2060-4d0c-8c30-02bf035c8501",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "74e8bba9-8f13-4ef3-a4d8-490b741fb99a",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "00ed47ee-5f79-415b-ae91-dd59d6d81251",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "ba9a1454-2e5f-4877-a6e5-5c3713e87f5f",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "0196f52e-2b9c-4f13-8516-d5545f078172",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "21632095-1c21-4a9e-93f8-6e8e2f9019f0",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "ac66051b-76fa-457b-9f3d-a6b2a7984ae3",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2c39765d-3735-4820-8c61-86f182c69688",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "8bf1196b-0aac-4bf7-a8f7-feb358b43ad7",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7e640697-127f-4ff1-a18e-ce98e96f63c2",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "b35b1c4c-4c44-47bb-aa59-f4d2470dc5ee",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "80614d0c-bfb4-40b8-ae90-165b387e10a6",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7e518580-ff87-4457-b420-fde35611163e",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f6053348-1d7b-4d25-9292-d67090386377",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d74c7278-f48f-4cd9-ae66-2c3b8299de95",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "755ced32-c146-43ee-bcb7-c7f3b340f610",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "b8ee14bb-cf86-4a97-b526-95110b176800",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "90efe6d7-6f52-4846-8c91-71ae4ecdffd1",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "fd1521a4-4317-4a4c-8b8e-9752d5321e31",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "4d8d0814-5831-4b47-ab4e-b51a2c2503e7",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "4e6d2111-e93f-4202-8f4d-60eeb02dbec2",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "e7b3bf49-ad87-4984-b433-eda83304a464",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "a3c50249-20bc-4f7d-b560-b550d3ec4285",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "36b38a2e-9273-449e-9bdd-2719ebb4fb1d",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "82667703-d121-4689-a139-395f4a5faa31",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "e53903af-8866-4129-beb5-a2ac5711b74c",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "fc605a5a-afd5-4ce7-9d5a-ed9f5ccf094f",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "fdb38c04-6ac5-4170-ab9d-a57f9e611d00",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2730779f-0044-4c9b-b310-3a26acef7585",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f0aa4d4c-3e79-422b-935c-53a60adbb59d",
+          "guess": "unsure",
+          "confidence": 0.637,
+          "model_score": 0.6331,
+          "style_score": 0.6429,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "When we look to the individuals of the same variety or sub-variety of "
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "797fb442-a136-4a29-b5a2-e4e396fe8911",
+          "guess": "ai",
+          "confidence": 0.8968,
+          "model_score": 0.8755,
+          "style_score": 0.9287,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I live in a small town. My school is near my house. Every day I walk t"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "be296c52-27b2-45fa-8852-fbd2d8df4c18",
+          "guess": "ai",
+          "confidence": 0.8818,
+          "model_score": 0.8752,
+          "style_score": 0.8916,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "We got a dog last year. His name is Max. He is brown and white. He lik"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "94e83d31-ee50-4c14-8184-c87523c2aa1d",
+          "guess": "ai",
+          "confidence": 0.8345,
+          "model_score": 0.7695,
+          "style_score": 0.932,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "I work at a shop. The shop sells shoes. I start at nine in the morning"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7f640e3b-3a75-48ca-97ac-25cbbf061bbe",
+          "guess": "ai",
+          "confidence": 0.8339,
+          "model_score": 0.7763,
+          "style_score": 0.9203,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Last summer we went to the sea. The drive was long. My brother was sic"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "d67d135a-cbc9-4539-86fb-7f99fa2de365",
+          "guess": "ai",
+          "confidence": 0.8577,
+          "model_score": 0.853,
+          "style_score": 0.8648,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective time management is essential for achieving both personal and"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "c259015a-1192-4588-afeb-f193d3aadc2c",
+          "guess": "ai",
+          "confidence": 0.9106,
+          "model_score": 0.9406,
+          "style_score": 0.8656,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Climate change is one of the most pressing challenges facing our world"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "aa009a77-1503-447a-a1b6-ece9b8a757fd",
+          "guess": "ai",
+          "confidence": 0.8746,
+          "model_score": 0.8645,
+          "style_score": 0.8898,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Artificial intelligence has the potential to transform numerous indust"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2604cd4e-5fea-42b2-9d2f-de431187381b",
+          "guess": "ai",
+          "confidence": 0.8018,
+          "model_score": 0.8937,
+          "style_score": 0.6639,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "A healthy lifestyle is built on three key pillars: balanced nutrition,"
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f6b1aa35-fbb4-440f-ad5f-197982946a93",
+          "guess": "ai",
+          "confidence": 0.8221,
+          "model_score": 0.8025,
+          "style_score": 0.8514,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "Effective communication is a fundamental skill in any workplace enviro"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "label sweep",
+    "criterion": 3,
+    "trials": [
+      [
+        {
+          "sweep": {
+            "human": {
+              "first": 0.0,
+              "last": 0.4,
+              "count": 41
+            },
+            "unsure": {
+              "first": 0.41,
+              "last": 0.69,
+              "count": 29
+            },
+            "ai": {
+              "first": 0.7,
+              "last": 1.0,
+              "count": 31
+            }
+          },
+          "guess_at_0.51": "unsure",
+          "guess_at_0.95": "ai",
+          "sent": "score_to_label sweep 0.00 to 1.00"
+        }
+      ],
+      [
+        {
+          "sweep": {
+            "human": {
+              "first": 0.0,
+              "last": 0.4,
+              "count": 41
+            },
+            "unsure": {
+              "first": 0.41,
+              "last": 0.69,
+              "count": 29
+            },
+            "ai": {
+              "first": 0.7,
+              "last": 1.0,
+              "count": 31
+            }
+          },
+          "guess_at_0.51": "unsure",
+          "guess_at_0.95": "ai",
+          "sent": "score_to_label sweep 0.00 to 1.00"
+        }
+      ],
+      [
+        {
+          "sweep": {
+            "human": {
+              "first": 0.0,
+              "last": 0.4,
+              "count": 41
+            },
+            "unsure": {
+              "first": 0.41,
+              "last": 0.69,
+              "count": 29
+            },
+            "ai": {
+              "first": 0.7,
+              "last": 1.0,
+              "count": 31
+            }
+          },
+          "guess_at_0.51": "unsure",
+          "guess_at_0.95": "ai",
+          "sent": "score_to_label sweep 0.00 to 1.00"
+        }
+      ]
+    ]
+  },
+  {
+    "name": "appeals",
+    "criterion": 4,
+    "trials": [
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "7c21628f-2793-4438-8a6c-399aaa8fce4e",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "3b051e2e-0d8a-4c67-a687-e9ffe8381254",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "dcde8359-6a82-4ee1-971a-f6b339f81b37",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "a5201530-674b-46a4-82fb-47c76efa2afb",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "39704bbc-3154-4369-95b3-eaaa8af86013",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "sent": "appeal against unknown content_id",
+          "appeal_status": 404,
+          "log_entries_added": 0
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "f2ad7975-cdc3-4405-935c-384b3dfd5d07",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "e3c4e2d2-0230-4360-9134-edc87d5ee812",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "9e27f994-2708-4191-a148-e8a1ef559b52",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "10e0bb3d-23ac-4277-8a43-2998a508c288",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "2ae00db2-35bb-4faa-aab3-791695b60931",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "sent": "appeal against unknown content_id",
+          "appeal_status": 404,
+          "log_entries_added": 0
+        }
+      ],
+      [
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "fb7bf12f-0b4f-4a24-bf19-50efb7e31c4d",
+          "guess": "unsure",
+          "confidence": 0.4041,
+          "model_score": 0.4611,
+          "style_score": 0.3186,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "You don't know about me without you have read a book by the name of Th",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "700fe350-23b7-4a5b-881f-32ba338bce89",
+          "guess": "human",
+          "confidence": 0.1629,
+          "model_score": 0.2457,
+          "style_score": 0.0387,
+          "label": "This looks like it was written by a person. There's nothing you need to do.",
+          "sent": "Honestly? I didn't want to move. Everything I knew was in that tiny fl",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "708c1167-6ef1-40be-b3cc-3a44106a79dd",
+          "guess": "unsure",
+          "confidence": 0.6783,
+          "model_score": 0.692,
+          "style_score": 0.6577,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "It is a truth universally acknowledged, that a single man in possessio",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "c5a7bb52-2ab2-4563-94a3-27893dee800e",
+          "guess": "ai",
+          "confidence": 0.8768,
+          "model_score": 0.9613,
+          "style_score": 0.75,
+          "label": "Our checks suggest this may have been written with the help of AI. These checks make mistakes, especially with plain or simple writing. If you wrote it yourself, please tell us and a person will review it.",
+          "sent": "It was the best of times, it was the worst of times, it was the age of",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "status": 200,
+          "log_entries_added": 1,
+          "content_id": "9691a112-3b9a-4eb6-bbbd-38a5e2306043",
+          "guess": "unsure",
+          "confidence": 0.6542,
+          "model_score": 0.6379,
+          "style_score": 0.6787,
+          "label": "We can't tell for sure how this was written, and we aren't saying it wasn't you. If you wrote it yourself, you don't need to do anything. You can ask a person to take a look at any time.",
+          "sent": "I went to the woods because I wished to live deliberately, to front on",
+          "appeal_status": 200,
+          "appeal_reply_status": "under_review",
+          "decision_entries": 1,
+          "decision_still_decided": true,
+          "appeal_entries": 1,
+          "appeal_entry_status": "under_review",
+          "appeal_has_reasoning": true
+        },
+        {
+          "sent": "appeal against unknown content_id",
+          "appeal_status": 404,
+          "log_entries_added": 0
+        }
+      ]
+    ]
+  },
+  {
+    "name": "bad input",
+    "criterion": 5,
+    "trials": [
+      [
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"creator_id\": \"eval_bad_missing\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": null, \"creator_id\": \"eval_bad_null\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "(empty text)"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "   \n\t  "
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": 5, \"creator_id\": \"eval_bad_number\"}"
+        },
+        {
+          "status": 413,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": \"A perfectly good sentence with no creator attached.\"}"
+        }
+      ],
+      [
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"creator_id\": \"eval_bad_missing\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": null, \"creator_id\": \"eval_bad_null\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "(empty text)"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "   \n\t  "
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": 5, \"creator_id\": \"eval_bad_number\"}"
+        },
+        {
+          "status": 413,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": \"A perfectly good sentence with no creator attached.\"}"
+        }
+      ],
+      [
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"creator_id\": \"eval_bad_missing\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": null, \"creator_id\": \"eval_bad_null\"}"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "(empty text)"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "   \n\t  "
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": 5, \"creator_id\": \"eval_bad_number\"}"
+        },
+        {
+          "status": 413,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+          "status": 400,
+          "log_entries_added": 1,
+          "content_id": null,
+          "guess": null,
+          "confidence": null,
+          "model_score": null,
+          "style_score": null,
+          "label": null,
+          "sent": "{\"text\": \"A perfectly good sentence with no creator attached.\"}"
+        }
+      ]
+    ]
+  }
+]
